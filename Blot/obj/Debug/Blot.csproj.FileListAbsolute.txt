@@ -1,0 +1,28 @@
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\bin\Debug\Blot.exe.config
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\bin\Debug\Blot.exe
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\bin\Debug\Blot.pdb
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\obj\Debug\Blot.csprojAssemblyReference.cache
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\obj\Debug\Blot.frmHome.resources
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\obj\Debug\Blot.Properties.Resources.resources
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\obj\Debug\Blot.csproj.GenerateResource.cache
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\obj\Debug\Blot.csproj.CoreCompileInputs.cache
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\obj\Debug\Blot.exe
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\obj\Debug\Blot.pdb
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\obj\Debug\Blot.GUI.FrmDonors.resources
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\obj\Debug\Blot.GUI.FrmLogin.resources
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\obj\Debug\Blot.GUI.FrmReceivers.resources
+C:\Users\K\Coding\Workspace\Visual Studio\Blot\Blot\obj\Debug\Blot.GUI.FrmRegister.resources
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\bin\Debug\Blot.exe.config
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\bin\Debug\Blot.exe
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\bin\Debug\Blot.pdb
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\obj\Debug\Blot.csproj.AssemblyReference.cache
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\obj\Debug\Blot.GUI.FrmDonors.resources
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\obj\Debug\Blot.FrmHome.resources
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\obj\Debug\Blot.GUI.FrmLogin.resources
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\obj\Debug\Blot.GUI.FrmReceivers.resources
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\obj\Debug\Blot.GUI.FrmRegister.resources
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\obj\Debug\Blot.Properties.Resources.resources
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\obj\Debug\Blot.csproj.GenerateResource.cache
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\obj\Debug\Blot.csproj.CoreCompileInputs.cache
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\obj\Debug\Blot.exe
+F:\SSD Account Data 13-Apr-2021\K\C\Users\K\Coding\Workspace\Visual Studio\C#\Blot\Blot\obj\Debug\Blot.pdb
